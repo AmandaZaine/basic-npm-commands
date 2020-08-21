@@ -1,0 +1,43 @@
+NPM: command most used by me
+
+npm init
+
+npm install jsdom
+
+npm install
+
+npm install eslint
+
+npm install --save-dev jest
+
+--save-dev jest
+
+npm init
+
+npm init -y
+
+npm i eslint
+
+npm install jest --save-dev
+
+npm run eslint
+
+npm link
+
+npm unlink
+
+eslint index.js
+
+cat package.json
+
+git config --list
+
+npm install eslint
+
+npm i firebase
+
+npm start  >> Abrir arquivo pelo GitBash
+
+npm install
+
+npm -v  >>  Ver qual versão do NPM
